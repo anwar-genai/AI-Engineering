@@ -1,0 +1,44 @@
+
+======================================================================
+                    STUDENT PERFORMANCE REPORT
+======================================================================
+
+DATASET OVERVIEW:
+- Total Students: 100
+- Date Generated: 2025-11-09 01:00:44
+
+OVERALL STATISTICS:
+- Average Math Score: 71.05
+- Average Science Score: 69.79
+- Average English Score: 72.67
+- Overall Average: 71.17
+
+PERFORMANCE BREAKDOWN:
+performance_category
+Good         47
+Average      45
+Excellent     7
+Poor          1
+
+TOP 5 STUDENTS:
+      name  average_score  study_hours
+Student_50      88.666667            5
+Student_93      88.000000            9
+ Student_8      87.666667            9
+Student_37      87.000000            7
+Student_47      86.333333            9
+
+KEY INSIGHTS:
+1. Correlation between study hours and performance: 0.005
+2. Correlation between attendance and performance: 0.061
+3. Best performing city: Houston
+4. Students excelling in all subjects: 2
+5. Students needing additional support: 38
+
+RECOMMENDATIONS:
+- Focus on students with <50% attendance
+- Provide additional tutoring for students scoring <50
+- Encourage study hours (strong positive correlation observed)
+- Investigate teaching methods in top-performing cities
+
+======================================================================
