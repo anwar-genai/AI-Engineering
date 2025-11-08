@@ -577,5 +577,5 @@ A: Classification for categories, regression for continuous values
 
 ---
 
-**Last Updated:** November 2024  
+**Last Updated:** November 2025  
 **Next Challenge:** PyTorch & Neural Networks 🧠

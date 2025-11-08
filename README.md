@@ -1,7 +1,7 @@
 # 🤖 AI Engineering Journey: From Foundations to Multimodal AI
 
-**Author:** [Your Name]  
-**Started:** November 2024  
+**Author:** Anwar khan 
+**Started:** November 2025  
 **Goal:** Become an AI Engineer with OCR/Multimodal expertise
 
 ---
@@ -203,9 +203,9 @@ This project is for educational purposes. Feel free to use the code for your own
 
 ## 📞 Contact
 
-- **GitHub**: [Your GitHub]
-- **LinkedIn**: [Your LinkedIn]
-- **Email**: [Your Email]
+- **GitHub**: github.com/anwar-genai
+- **LinkedIn**: linkedin.com/in/anwar-network
+- **Email**: freelancewithanwar@gmail.com
 
 ---
 
