@@ -1,0 +1,1 @@
+initial setup setted for week 7
